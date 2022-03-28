@@ -27,7 +27,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [https://github.com/Makson19/stats-preview-card-component](https://github.com/Makson19/stats-preview-card-component)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://makson19.github.io/stats-preview-card-component/](https://makson19.github.io/stats-preview-card-component/)
 
 ## My process
 
